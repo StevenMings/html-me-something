@@ -1,0 +1,44 @@
+#Lucida {
+    font-family: 'Lucida Sans';
+    
+}
+
+body {
+    background-color: #000000;
+    color: #FFFFFF; 
+    margin-left: 50px;
+    margin-right: 500px;
+    
+ }
+ 
+ol li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    text-decoration: underline;
+    padding-bottom: 10px;
+
+}
+
+ul li {
+    font-family: cursive;
+    font-size: 1em;
+    text-decoration: none;
+
+}
+
+p {
+    font-family: cursive;
+}
+
+article.wrap {
+    width: 55em; 
+    word-wrap: break-word;
+}
+
+footer {
+    background-color: #393838;
+    font-size: 15px;
+    text-align: center;
+    height: 50px;
+    text-s
+}
